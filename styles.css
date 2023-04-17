@@ -1,0 +1,28 @@
+.FONDO{
+    background: linear-gradient(to top, rgb(81, 10, 60), rgb(133, 5, 82));
+}
+
+
+.F1{
+    font-family:Arial, Helvetica, sans-serif; font-size: 40px;color: rgb(255, 255, 255);
+}
+
+.F2{
+    font-size: 25px;
+}
+
+.IMG-1{
+    border-radius: 50%;filter: drop-shadow(0 20px 15px rgba(0, 0, 0, 0.7)); 
+}
+
+.DATOS{
+    font-size: 25px;
+}
+
+.LISTA{
+    font-size: 25px;
+}
+
+.ICONOS{
+    margin: 5px;
+}
